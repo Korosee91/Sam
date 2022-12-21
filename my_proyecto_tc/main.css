@@ -1,0 +1,73 @@
+#LIS{
+    position: relative;
+    bottom: 195px;
+    margin: 0%;
+    padding: 1%;
+    border-radius: 3%;
+    font-style: italic;
+    font-size: larger;
+    width: 500px;
+    height: 140px; 
+}
+#LIS a :hover{
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+
+
+form{
+    align-items: center;
+    font-style: unset;
+    width: 200px;
+    height: auto;
+    border-radius: 5%;
+    margin: 10%;
+    padding: 5%;
+    background-color: rgba(177, 241, 241, 0.372);
+}
+
+#ado1{
+    position: relative;
+    right: 55px;
+    top: 18px;
+    width: 500px;
+    
+}
+#ado2{
+    
+    position: relative;
+    left: 965px;
+    bottom: 398px;
+    width: 500px;
+}
+
+#Log{
+    margin: 0%;
+    padding: 0%;
+}
+#TAC{
+    background-color: rgb(214, 222, 226);
+    font-style: italic;
+    margin: 2%;
+    padding: 1%;
+    width: 200px;
+}
+#TTO{
+    background-color: rgb(214, 222, 226);
+    font-style: italic;
+    margin: 2%;
+    padding: 1%;
+    width: 200px;
+}
+#TEJ{
+    background-color: rgb(214, 222, 226);
+    font-style: italic;
+    margin: 2%;
+    padding: 1%;
+    width: 200px;
+}
+#POS{
+    position: relative;
+    top: 20%;
+}
